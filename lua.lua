@@ -23,7 +23,7 @@ local library = {
     ended = {},
     changed = {},
     folders = {
-        assets = "Splix/assets",
+        assets = "antonheck/assets",
     },
     shared = {
         initialized = false,
